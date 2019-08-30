@@ -1,6 +1,8 @@
 import React from "react";
 import "./Numbers.css";
 
+import Button from "../button/Button";
+
 class Numbers extends React.Component {
 	constructor(props) {
 		super(props);
@@ -13,12 +15,19 @@ class Numbers extends React.Component {
 	createButtonsElements = () => {
 		var buttonElements = [];
 		for (var i = 0; i < this.state.buttons; i++) {
-			buttonElements.push();
+			buttonElements.push(
+				<Button
+					label={this.state.buttons[i]}
+					onClick={this.props.onClick}
+				/>
+			);
 		}
+
+		return buttonElements;
 	};
 
 	render() {
-		return <div></div>;
+		return <div id="operations">{this.createButtonsElements()}</div>;
 	}
 }
 
