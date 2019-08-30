@@ -1,6 +1,7 @@
 #operations {
 	width: 50px;
 	float: right;
+	display: contents;
 }
 
 #operations .defaultButton {

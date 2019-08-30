@@ -8,7 +8,7 @@ class Operations extends React.Component {
 		super(props);
 
 		this.state = {
-			buttons: ["+", "-", "/", "x"]
+			buttons: ["+", "-", "/", "x", "%", "x2", "V"]
 		};
 	}
 
