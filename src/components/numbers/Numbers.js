@@ -14,7 +14,7 @@ class Numbers extends React.Component {
 
 	createButtonsElements = () => {
 		var buttonElements = [];
-		for (var i = 0; i < this.state.buttons; i++) {
+		for (var i = 0; i < this.state.buttons.length; i++) {
 			buttonElements.push(
 				<Button
 					label={this.state.buttons[i]}
@@ -28,7 +28,7 @@ class Numbers extends React.Component {
 
 	render() {
 		return (
-			<div id="operations">
+			<div id="numbers">
 				{this.createButtonsElements()}
 				<Button
 					label="="
