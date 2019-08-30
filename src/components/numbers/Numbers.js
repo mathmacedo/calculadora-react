@@ -17,6 +17,7 @@ class Numbers extends React.Component {
 		for (var i = 0; i < this.state.buttons.length; i++) {
 			buttonElements.push(
 				<Button
+					key={"button" + [i]}
 					label={this.state.buttons[i]}
 					onClick={this.props.onClick}
 				/>
