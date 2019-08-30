@@ -1,6 +1,8 @@
 import React from "react";
 import "./Inputs.css";
+
 import Numbers from "../numbers/Numbers";
+import Operations from "../operations/Operations";
 
 class Inputs extends React.Component {
 	render() {
