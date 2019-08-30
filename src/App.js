@@ -87,10 +87,22 @@ class App extends React.Component {
 					parseFloat(this.state.operando) *
 					parseFloat(this.state.display);
 				break;
-			default:
+			case "%":
+				displayResult =
+					(parseFloat(this.state.operando) *
+						parseFloat(this.state.display)) /
+					100;
+				break;
+			case "x2":
 				displayResult =
 					parseFloat(this.state.operando) *
-					parseFloat(this.state.display);
+					parseFloat(this.state.operando);
+				break;
+			case "V":
+				displayResult = Math.sqrt(parseFloat(this.state.operando));
+				break;
+			default:
+				displayResult = "Digite algo";
 				break;
 		}
 		this.setState({
