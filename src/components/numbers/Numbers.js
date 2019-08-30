@@ -27,7 +27,16 @@ class Numbers extends React.Component {
 	};
 
 	render() {
-		return <div id="operations">{this.createButtonsElements()}</div>;
+		return (
+			<div id="operations">
+				{this.createButtonsElements()}
+				<Button
+					label="="
+					onClick={this.props.onClickTotal}
+					className="greenBtn"
+				/>
+			</div>
+		);
 	}
 }
 
