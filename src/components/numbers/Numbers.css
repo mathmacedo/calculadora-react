@@ -1,0 +1,15 @@
+#numbers {
+	width: 150px;
+	float: left;
+}
+
+#numbers .defaultButton {
+	background: #1976d2;
+	border: 1px solid #1565c0;
+	color: #fff;
+}
+
+#numbers .defaultButton.greenBtn {
+	background: #558b2f;
+	color: #fff;
+}

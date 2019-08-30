@@ -1,0 +1,9 @@
+#operations {
+	width: 50px;
+	float: right;
+}
+
+#operations .defaultButton {
+	background: #757575;
+	color: #fff;
+}

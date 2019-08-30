@@ -1,0 +1,21 @@
+#display {
+	width: 190px;
+	margin: 5px;
+	text-align: right;
+	padding: 20px 15px;
+	border-radius: 5px;
+	background: #ef6c00;
+	color: #fff;
+}
+
+#display .clean {
+	float: left;
+	font-size: 17px;
+	border-radius: 50%;
+	background: #fff;
+	color: #ef6c00;
+	width: 22px;
+	height: 22px;
+	text-align: center;
+	cursor: pointer;
+}
