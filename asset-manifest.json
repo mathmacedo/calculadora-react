@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mathmacedo/calculadora-react/static/css/main.3a12ffb3.chunk.css",
+    "main.js": "/mathmacedo/calculadora-react/static/js/main.7907ae73.chunk.js",
+    "main.js.map": "/mathmacedo/calculadora-react/static/js/main.7907ae73.chunk.js.map",
+    "runtime~main.js": "/mathmacedo/calculadora-react/static/js/runtime~main.ab644c49.js",
+    "runtime~main.js.map": "/mathmacedo/calculadora-react/static/js/runtime~main.ab644c49.js.map",
+    "static/js/2.90cb6644.chunk.js": "/mathmacedo/calculadora-react/static/js/2.90cb6644.chunk.js",
+    "static/js/2.90cb6644.chunk.js.map": "/mathmacedo/calculadora-react/static/js/2.90cb6644.chunk.js.map",
+    "index.html": "/mathmacedo/calculadora-react/index.html",
+    "precache-manifest.f313e592333cad5d08bec7741fcfc8c4.js": "/mathmacedo/calculadora-react/precache-manifest.f313e592333cad5d08bec7741fcfc8c4.js",
+    "service-worker.js": "/mathmacedo/calculadora-react/service-worker.js",
+    "static/css/main.3a12ffb3.chunk.css.map": "/mathmacedo/calculadora-react/static/css/main.3a12ffb3.chunk.css.map"
+  }
+}
