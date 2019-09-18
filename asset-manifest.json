@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mathmacedo/calculadora-react/static/css/main.3a12ffb3.chunk.css",
-    "main.js": "/mathmacedo/calculadora-react/static/js/main.7907ae73.chunk.js",
-    "main.js.map": "/mathmacedo/calculadora-react/static/js/main.7907ae73.chunk.js.map",
-    "runtime~main.js": "/mathmacedo/calculadora-react/static/js/runtime~main.ab644c49.js",
-    "runtime~main.js.map": "/mathmacedo/calculadora-react/static/js/runtime~main.ab644c49.js.map",
-    "static/js/2.90cb6644.chunk.js": "/mathmacedo/calculadora-react/static/js/2.90cb6644.chunk.js",
-    "static/js/2.90cb6644.chunk.js.map": "/mathmacedo/calculadora-react/static/js/2.90cb6644.chunk.js.map",
-    "index.html": "/mathmacedo/calculadora-react/index.html",
-    "precache-manifest.f313e592333cad5d08bec7741fcfc8c4.js": "/mathmacedo/calculadora-react/precache-manifest.f313e592333cad5d08bec7741fcfc8c4.js",
-    "service-worker.js": "/mathmacedo/calculadora-react/service-worker.js",
-    "static/css/main.3a12ffb3.chunk.css.map": "/mathmacedo/calculadora-react/static/css/main.3a12ffb3.chunk.css.map"
+    "main.css": "/calculadora-react/static/css/main.3a12ffb3.chunk.css",
+    "main.js": "/calculadora-react/static/js/main.eef12a83.chunk.js",
+    "main.js.map": "/calculadora-react/static/js/main.eef12a83.chunk.js.map",
+    "runtime~main.js": "/calculadora-react/static/js/runtime~main.d7d464aa.js",
+    "runtime~main.js.map": "/calculadora-react/static/js/runtime~main.d7d464aa.js.map",
+    "static/js/2.90cb6644.chunk.js": "/calculadora-react/static/js/2.90cb6644.chunk.js",
+    "static/js/2.90cb6644.chunk.js.map": "/calculadora-react/static/js/2.90cb6644.chunk.js.map",
+    "index.html": "/calculadora-react/index.html",
+    "precache-manifest.1f9005c805c374ee4d6a71f3d12e538d.js": "/calculadora-react/precache-manifest.1f9005c805c374ee4d6a71f3d12e538d.js",
+    "service-worker.js": "/calculadora-react/service-worker.js",
+    "static/css/main.3a12ffb3.chunk.css.map": "/calculadora-react/static/css/main.3a12ffb3.chunk.css.map"
   }
 }
